@@ -32,10 +32,10 @@
 
     .item6{
       display:grid;
-        grid-template-areas: 'logo copy copy copy copy copy';
-        gap: 10px;
-        background-color: #CCC;
-        padding: 10px;
+      grid-template-areas: 'logo copy copy copy copy copy';
+      gap: 10px;
+      background-color: #CCC;
+      padding: 10px;
     }
     </style>
   </head>
